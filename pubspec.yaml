@@ -1,0 +1,11 @@
+name: flutter_facebook_auth
+description: "A custom version of the flutter_facebook_auth package."
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_facebook_auth: ^7.1.1
