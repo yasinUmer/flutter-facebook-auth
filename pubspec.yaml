@@ -8,4 +8,3 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_facebook_auth: ^7.1.1
